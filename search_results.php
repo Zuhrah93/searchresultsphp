@@ -44,5 +44,6 @@ mysqli_close($dbConn);
 
 
 ?>
+	END
 </body>
 <html>
